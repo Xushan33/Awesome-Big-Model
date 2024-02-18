@@ -8,4 +8,6 @@ A paper list for Awesome Big Model.
 - Tevatron: An Efficient and Flexible Toolkit for Dense Retrieval [[arxiv2022]](https://arxiv.org/pdf/2203.05765.pdf)
 ### Difficult Negative Sample Mining
 - Dense Passage Retrieval for Open-Domain Question Answering [[arxiv2020]](https://arxiv.org/pdf/2004.04906.pdf)
+### Instruction Tuning
+- One Embedder, Any Task: Instruction-Finetuned Text Embeddings [[arxiv2022]](https://arxiv.org/pdf/2212.09741.pdf)
 
